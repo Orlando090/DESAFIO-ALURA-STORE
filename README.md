@@ -1,12 +1,12 @@
 # DESAFIO-ALURA-STORE
 Desafío del curso de data science con phyton
-# 📊 Proyecto de Análisis de Tiendas
+# Proyecto de Análisis de Tiendas
 
 Este proyecto fue realizado como parte de mi aprendizaje en Ciencia de Datos. El objetivo fue analizar los datos de cuatro tiendas y determinar **cuál de ellas debería ser vendida**, basándome en distintos factores como ingresos, productos más vendidos, calificaciones de clientes y costos de envío.
 
 ---
 
-## 📌 ¿Qué hice en este proyecto?
+## ¿Qué hice en este proyecto?
 
 - Aprendí a organizar y analizar información básica de ventas.
 - Representé los datos usando gráficos (de barras y columnas agrupadas).
@@ -20,7 +20,7 @@ Todo el análisis fue hecho paso a paso con ayuda y explicaciones para poder ent
 
 ---
 
-## 🛠 Herramientas utilizadas
+## Herramientas utilizadas
 
 Aunque todavía estoy aprendiendo, usé lo siguiente:
 
@@ -31,7 +31,7 @@ Aunque todavía estoy aprendiendo, usé lo siguiente:
 
 ---
 
-## 📈 Resultados importantes
+## Resultados importantes
 
 - **Tienda 1** tiene los ingresos más altos, pero también el costo de envío más caro y la calificación más baja.
 - **Tienda 3** tiene buena calificación y ventas.
